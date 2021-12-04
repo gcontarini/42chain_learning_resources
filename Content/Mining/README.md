@@ -18,13 +18,24 @@
 <!-- Don't forget the <br> between links!!!! -->
 
 
+<!-- 
 
-<!-- <img src="https://cdn.discordapp.com/attachments/907996802580611102/916682965419958282/42chain-icon_copy.png?width=400&height=400" alt="42Chain Logo" width="42px" height="42px" align="right"/>
+## ADD NEW TOPIC DO INDEX
+
+<p><a href="#The id you'll put on the Header of the new topic">
+  The name you want to appear in the index
+</a></p>
+
+## ADD NEW TOPIC
+
+<img src="https://cdn.discordapp.com/attachments/907996802580611102/916682965419958282/42chain-icon_copy.png?width=400&height=400" alt="42Chain Logo" width="42px" height="42px" align="right"/>
 <h2 id="YOUR TOPIC">YOUR TOPIC</h2>
 <p> A short resume about the subject itslef to people see if its what they are looking for.</p>
-<p> If you got a link to add please do it here, copy and paste the the line "<a ... </a> </p>
+<p> If you got a link to add please do it here, copy and paste the the line <a ... </a> </p>
 <a href="URL" target="_blank">The title of the link!</a> 
 <br>
+
+## ADD NEW LINKS
+
 <a href="https://github.com/benmaia/42chain_learning_resources" target="_blank">Exemple</a>
 DONT'T FORGET THE <BR> BETWEEN LINKS!!!!-->
-
