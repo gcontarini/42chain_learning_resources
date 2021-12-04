@@ -2,7 +2,6 @@
 <h1>Investments</h1>
 
 <p> What this repo is about</p>
-<br>
 <h2> Index </h2>
 <p><a href="#YOUR TOPIC">
   YOUR TOPIC
