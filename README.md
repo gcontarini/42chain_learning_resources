@@ -1,18 +1,19 @@
-# 42chain_learning_resources
+# 42Chain Learning Resources
+
+![alt text](https://cdn.discordapp.com/emojis/908411779913240657.png?size=96)
+
+>*This repository belongs to the 42Chain club Lisbon.*
+
 This a collaborative effort of gathering resources and topics related to learning about blockchain technologies.
-This repository belongs to the 42chain club Lisbon.
 
-# :construction: Work in progress :construction:.
+## Basic Topics
+- [Blockchain](/Content/Blockchain)
+- [Investments](/Content/Investments)
+- [Mining](/Content/Mining)
+- [Programming](/Content/Programming)
 
-## Basic Topics :construction:
-- What is blockchain?
-- How Bitcoin works? (Proof-of-Work consensus)
-- How Ethereum works? (Smart Contracts)
-- DeFi Core Concepts (FIAT, Coins, Tokens, DAOs, DEXs, etc)
-- How to setup nodes/validators? 
-
-# How to collaborate?
+## How to collaborate?
 Fork this repository and make a pull request.
 
-## Contact on Slack
-Have ideas or suggestions? Ping me on 42 Slack -> gcontari
+### Contact on Slack
+Have ideas or suggestions? Ping us on 42 Slack -> gcontari || bmiguel-
