@@ -3,12 +3,26 @@
 
 <p> Here you have resources about how the blockchain works, how can be used, and let you understand the new digital era!</p>
 <h2> Index </h2>
+<p><a href="#Blockchain">
+  What is a Blockchain?
+</a></p>
 <p><a href="#Proof of Work">
   Proof of Work
 </a></p>
 <p><a href="#Proof of Stake">
   Proof of Stake
 </a></p>
+
+<img src="https://cdn.discordapp.com/attachments/907996802580611102/916682965419958282/42chain-icon_copy.png?width=400&height=400" alt="42Chain Logo" width="42px" height="42px" align="right"/>
+<h2 id="Blockchain">What is a Blockchain?</h2>
+<p> Basically, a Blockchain is a distributed database that is shared in a computer network. The blockchain is used to store information electronically in a secure and decentralized way. It is common related to cryptocurrency systems but can be use for pretty much everything in digital format.</p>
+<p> The way a Blockchain is structure is what makes it different from a database. It stores the information in blocks, and when a block is filled, it is added to the chain. In this way, a blockchain is irreversible and everything that is added can't be edited or deleted, so it makes it the most secure way know to store data.</p>
+<p> When we say that a Blockchain is decentralized, it means that it is not controlled by a person or a group, rather, all the users of the blockchain collectively retain control. Instead of storing the data in one place only, is it distributed through a network and if someone tries to alter some information in one computer, he will not be able to alter it in the other computers of the network, so the new information can not be altered. If one computer of the network is destroyed, the information is still stored in the network. This makes the Blockchain secure.</p>
+<p> To add blocks to a Blockchain, the first step is to input the data (a transaction for example). Then, it is transmitted to the peer-to-peer computers network, that will validate the transaction (solving equations, in the case of Bitcoin, for example). When it is validated as legitimate, the information is clustered in the block and chained together with the previous block of the blockchain.</p>
+
+<a href="https://www.investopedia.com/terms/b/blockchain.asp" target="_blank">Investopedia: Blockchain Basics</a>
+<br>
+
 
 <img src="https://cdn.discordapp.com/attachments/907996802580611102/916682965419958282/42chain-icon_copy.png?width=400&height=400" alt="42Chain Logo" width="42px" height="42px" align="right"/>
 <h2 id="Proof of Work">Proof of Work</h2>
