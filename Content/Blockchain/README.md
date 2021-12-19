@@ -66,6 +66,9 @@
 
 <a href="https://www.investopedia.com/terms/s/smart-contracts.asp" target="_blank">Investopedia: Smart Contracts</a>
 <br>
+<a href="https://www.youtube.com/watch?v=ZE2HxTmxfrI" target="_blank">Smart contracts - Simply Explained - RECOMMEND THIS VIDEO</a>
+<br>
+
 <!-- 
 
 ## ADD NEW TOPIC DO INDEX
