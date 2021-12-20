@@ -12,6 +12,9 @@
 <p><a href="#Proof of Stake">
   Proof of Stake
 </a></p>
+<p><a href="#Smart Contract">
+  Smart Contract
+</a></p>
 
 <img src="https://cdn.discordapp.com/attachments/907996802580611102/916682965419958282/42chain-icon_copy.png?width=400&height=400" alt="42Chain Logo" width="42px" height="42px" align="right"/>
 <h2 id="Blockchain">What is a Blockchain?</h2>
@@ -39,7 +42,7 @@ To be able to change data in a Blockchain, the hacker has to control, simultaneo
   <p>- Proof of work at scale requires huge amounts of energy, which only increases as more miners join the network.</p>
   <p>- Proof of Stake (POS) was one of several novel consensus mechanisms created as an alternative to proof of work.</p>
 
-<a href="https://www.investopedia.com/terms/p/proof-work.asp" target="_blank">Understanding Proof of Work - Investopedia</a> 
+<a href="https://www.investopedia.com/terms/p/proof-work.asp" target="_blank">Investopedia: Understanding Proof of Work</a> 
 <br>
 <!-- Don't forget the <br> between links!!!! -->
 
@@ -54,7 +57,20 @@ To be able to change data in a Blockchain, the hacker has to control, simultaneo
 
 <a href="https://www.thebalance.com/proof-of-stake-pos-5196135" target="_blank">Good Basic Guide || Start here</a>
 <br>
-<a href="https://www.investopedia.com/terms/p/proof-stake-pos.asp" target="_blank">Understanding Proof of Stake - Investopedia</a> 
+<a href="https://www.investopedia.com/terms/p/proof-stake-pos.asp" target="_blank">Investopedia: Understanding Proof of Stake</a> 
+<br>
+
+<img src="https://cdn.discordapp.com/attachments/907996802580611102/916682965419958282/42chain-icon_copy.png?width=400&height=400" alt="42Chain Logo" width="42px" height="42px" align="right"/>
+<h2 id="Smart Contract">What Is a Smart Contract?</h2>
+<p>A smart contract is a self-executing contract with the terms of the agreement between buyer and seller being directly written into lines of code. The code and the agreements contained therein exist across a distributed, decentralized blockchain network. The code controls the execution, and transactions are trackable and irreversible.</p>
+<p> Smart contracts permit trusted transactions and agreements to be carried out among disparate, anonymous parties without the need for a central authority, legal system, or external enforcement mechanism.</p>
+<h3>Key-Elements</h3>
+<p> - Smart contracts are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of code.</p>
+<p> - Smart contracts render transactions traceable, transparent, and irreversible.</p>
+
+<a href="https://www.investopedia.com/terms/s/smart-contracts.asp" target="_blank">Investopedia: Smart Contracts</a>
+<br>
+<a href="https://www.youtube.com/watch?v=ZE2HxTmxfrI" target="_blank">Smart contracts - Simply Explained - RECOMMEND THIS VIDEO</a>
 <br>
 
 <!-- 
