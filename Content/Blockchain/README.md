@@ -24,7 +24,6 @@
 Each block contains its own hash (mathematical function that converts input of some length to a output of fixed length) and the hash of the previous block and its timestamp. This hash codes are created using a mathematical function to convert data into a string of numbers and letters. This means that if the data is changed in any way, the hash code will be different as well. If someone tries to alter data in a node, that belongs to a copy of the Blockchain, the hash code will no longer be the same as everyone else’s copy, so that version is not legit.<br>
 To be able to change data in a Blockchain, the hacker has to control, simultaneously, at least 51% of the copies of the blockchain, so it becomes the truth, because is the majority. This is incredibly improbable to happen because, even if someone could own 51% of a blockchain, it would require a lot of money and resources to redo all of the blocks with different hash codes and timestamps.
 
-
 <a href="https://www.investopedia.com/terms/b/blockchain.asp" target="_blank">Investopedia: Blockchain Basics</a>
 <br>
 
