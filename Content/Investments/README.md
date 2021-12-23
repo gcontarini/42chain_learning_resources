@@ -50,10 +50,13 @@ they’re digitally native to the Internet and programmable</p>
 
 <img src="https://cdn.discordapp.com/attachments/907996802580611102/916682965419958282/42chain-icon_copy.png?width=400&height=400" alt="42Chain Logo" width="42px" height="42px" align="right"/>
 <h2 id="TE">Tokenomics - The economy of crypto</h2>
-<p> A crypto token in case anyone needs to recall the definition- is essentially a crypto coin based on a blockchain platform that can be exchanged with another blockchain, and that provides many incentives to the holders of said token. Now, tokenomics. The term is formed by pairing up the two words token and economics. So the word tokenomics basically points to the economics of a crypto token; tokenomics refers to all the qualities of a crypto token that makes it appealing to investors. The tokenomics for a particular crypto token is usually thoroughly discussed in the project whitepaper, and it should help you grasp the functionality, objective, allocation policy, and more of the crypto token.    </p>
+<p> A crypto token in case anyone needs to recall the definition- is essentially a crypto coin based on a blockchain platform that can be exchanged with another blockchain, and that provides many incentives to the holders of said token. Now, tokenomics. The term is formed by pairing up the two words token and economics. So the word tokenomics basically points to the economics of a crypto token; tokenomics refers to all the qualities of a crypto token that makes it appealing to investors. </p>
+<p> The tokenomics for a particular crypto token is usually thoroughly discussed in the project whitepaper, and it should help you grasp the functionality, objective, allocation policy, and more of the crypto token. </p>
 <p> So you can understand why tokenomics is so important to investors, so dive in into the links! </p>
 <a href="https://101blockchains.com/tokenomics/" target="_blank">START HERE - Tokenomics – The Beginner’s Guide</a>
+</br>
 <a href="https://www.youtube.com/watch?v=NUBtK4HUcO4" target="_blank">What Makes Cryptocurrency Valuable? - Tokenomics Part: 1</a>
+</br>
 <a href="https://www.youtube.com/watch?v=VQFrca_Tsm0" target="_blank">What Makes Cryptocurrency Valuable? - Tokenomics Part: 2</a>
 <br>
 <br>
