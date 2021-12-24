@@ -6,16 +6,40 @@
 <p> Feel free to share crypto projects and why you believe in them!</p>
 
 <h2> Index </h2>
-<p><a href="#Stable">
-  Stablecoins
+<p><a href="#Investing">
+ Before Investing
   </a></p>
 <p><a href="#TE">
   Tokenomics - The economy of crypto
+  </a></p>
+<p><a href="#Stable">
+  Stablecoins
   </a></p>
 <p><a href="#5 Things Every Crypto Investor should do EVERY morning!">
   5 Things Every Crypto Investor should do EVERY morning!
   </a></p>
   </br>
+
+<img src="https://cdn.discordapp.com/attachments/907996802580611102/916682965419958282/42chain-icon_copy.png?width=400&height=400" alt="42Chain Logo" width="42px" height="42px" align="right"/>
+<h2 id="Investing">Before Investing</h2>
+<p> The cryptocurrency industry is growing at a rapid pace with Bitcoin, Dogecoin, Ethereum being the hot buzzwords driving the crypto frenzy these days. Even though the crypto industry is only a decade old, novice investors are drawn to it as they see a quick way to earn profits.</p>
+<p> Unlike the stock market, the crypto market does not have any regulation, as a result of which, its value swings up and backs down every day. Given the extreme volatility of these digital coins, here’s everything you need to know before investing in the cryptocurrency market.</p>
+<p> You need to study a lot before you putting your money anywhere, spcecially in crypto, because it's a very volatile, so start here</p>
+<a href="https://indianexpress.com/article/technology/crypto/everything-you-need-to-know-before-investing-in-cryptocurrency-7612855/" target="_blank">Crypto 101: Everything you need to know before investing in cryptocurrency</a>
+</br>
+
+<img src="https://cdn.discordapp.com/attachments/907996802580611102/916682965419958282/42chain-icon_copy.png?width=400&height=400" alt="42Chain Logo" width="42px" height="42px" align="right"/>
+<h2 id="TE">Tokenomics - The economy of crypto</h2>
+<p> A crypto token in case anyone needs to recall the definition- is essentially a crypto coin based on a blockchain platform that can be exchanged with another blockchain, and that provides many incentives to the holders of said token. Now, tokenomics. The term is formed by pairing up the two words token and economics. So the word tokenomics basically points to the economics of a crypto token; tokenomics refers to all the qualities of a crypto token that makes it appealing to investors. </p>
+<p> The tokenomics for a particular crypto token is usually thoroughly discussed in the project whitepaper, and it should help you grasp the functionality, objective, allocation policy, and more of the crypto token. </p>
+<p> So you can understand why tokenomics is so important to investors, so dive in into the links! </p>
+<a href="https://101blockchains.com/tokenomics/" target="_blank">START HERE - Tokenomics – The Beginner’s Guide</a>
+</br>
+<a href="https://www.youtube.com/watch?v=NUBtK4HUcO4" target="_blank">What Makes Cryptocurrency Valuable? - Tokenomics Part: 1</a>
+</br>
+<a href="https://www.youtube.com/watch?v=VQFrca_Tsm0" target="_blank">What Makes Cryptocurrency Valuable? - Tokenomics Part: 2</a>
+<br>
+<br>
 
 <img src="https://cdn.discordapp.com/attachments/907996802580611102/916682965419958282/42chain-icon_copy.png?width=400&height=400" alt="42Chain Logo" width="42px" height="42px" align="right"/>
 <h2 id="Stable">Stablecoins</h2>
@@ -47,19 +71,6 @@ they’re digitally native to the Internet and programmable</p>
 </br>
 <a href="https://www.youtube.com/watch?v=TxcTDNHSS-U" target="_blank">Stablecoin Collateral: Why You NEED To Pay Attention!! - Basic explanation of stablecoin and collaterals</a>
 </br>
-
-<img src="https://cdn.discordapp.com/attachments/907996802580611102/916682965419958282/42chain-icon_copy.png?width=400&height=400" alt="42Chain Logo" width="42px" height="42px" align="right"/>
-<h2 id="TE">Tokenomics - The economy of crypto</h2>
-<p> A crypto token in case anyone needs to recall the definition- is essentially a crypto coin based on a blockchain platform that can be exchanged with another blockchain, and that provides many incentives to the holders of said token. Now, tokenomics. The term is formed by pairing up the two words token and economics. So the word tokenomics basically points to the economics of a crypto token; tokenomics refers to all the qualities of a crypto token that makes it appealing to investors. </p>
-<p> The tokenomics for a particular crypto token is usually thoroughly discussed in the project whitepaper, and it should help you grasp the functionality, objective, allocation policy, and more of the crypto token. </p>
-<p> So you can understand why tokenomics is so important to investors, so dive in into the links! </p>
-<a href="https://101blockchains.com/tokenomics/" target="_blank">START HERE - Tokenomics – The Beginner’s Guide</a>
-</br>
-<a href="https://www.youtube.com/watch?v=NUBtK4HUcO4" target="_blank">What Makes Cryptocurrency Valuable? - Tokenomics Part: 1</a>
-</br>
-<a href="https://www.youtube.com/watch?v=VQFrca_Tsm0" target="_blank">What Makes Cryptocurrency Valuable? - Tokenomics Part: 2</a>
-<br>
-<br>
 
 <img src="https://cdn.discordapp.com/attachments/907996802580611102/916682965419958282/42chain-icon_copy.png?width=400&height=400" alt="42Chain Logo" width="42px" height="42px" align="right"/>
 <h2 id="5 Things Every Crypto Investor should do EVERY morning!">5 Things Every Crypto Investor should do EVERY morning!</h2>
